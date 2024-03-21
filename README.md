@@ -32,8 +32,8 @@ Hover State:
 
 ### Links
 
-- Solution URL: [](https://github.com/CHarvey820/social-links-profile-main)
-- Live Site URL: [](https://charvey820.github.io/social-links-profile-main/)
+- Solution URL: (https://github.com/CHarvey820/social-links-profile-main)
+- Live Site URL: (https://charvey820.github.io/social-links-profile-main/)
 
 ## My process
 
